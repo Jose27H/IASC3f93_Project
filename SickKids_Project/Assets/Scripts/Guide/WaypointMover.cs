@@ -14,6 +14,7 @@ public class WaypointMover : MonoBehaviour
     public Canvas canvas2; // The canvas of the chat
     private Transform currentWaypoint;
     public Text chatText;
+    [SerializeField]
     private String[] chatStrings = new []{"First Stop", "Second Stop", "Third Stop" , "Fourth Stop", "Fifth Stop"};
     private int currentIndex = 0;
     private PlayerMotor playerMotor;
