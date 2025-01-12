@@ -9,14 +9,19 @@ This virtual experience serves as both a navigational guide and an educational p
 Features
 
 Interactive 3D Map: A detailed and navigable three-dimensional map of the SickKids Hospital, allowing for a realistic experience of moving through hospital spaces.
+
 Guided Narratives: A character-driven narrative guides the user through the hospital, providing contextual information about each department and its significance.
+
 Educational Mini-Games: Throughout the tour, users engage in various mini-games that challenge them to learn about the hospital's operations in an interactive manner.
+
 Real-life Patient Stories: Integrating stories of actual patients highlights the foundation’s vital role and the tangible impact of medical care and support provided by SickKids.
 
 Technologies Used
 
 Unity Engine: Chosen for its robust capabilities in creating high-quality interactive 3D environments, facilitating a comprehensive virtual tour.
+
 C# Programming: Utilized for scripting the game mechanics, character interaction, and navigation logic within the Unity framework.
+
 NoSQL Database: Deployed to manage data effectively, ensuring seamless and scalable access to game progress, user interactions, and dynamic content updates.
 
 Conclusion
